@@ -1,3 +1,1 @@
-scripts/
-README.md
 
