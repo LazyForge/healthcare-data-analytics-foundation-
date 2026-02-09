@@ -1,5 +1,3 @@
-# healthcare-data-analytics-foundation-
-Healthcare-focused Data Analyst Python, SQL, data visualization, and real-world healthcare analytics projects
 # Healthcare Data Analytics Foundation
 
 ## 📌 Project Overview
